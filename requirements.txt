@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+spacy
+scikit-learn
+matplotlib
+seaborn
+vaderSentiment
+imbalanced-learn
+tqdm
+
